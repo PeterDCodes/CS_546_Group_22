@@ -1,0 +1,24 @@
+{
+  "name": "cs_546_group_22_project",
+  "version": "1.0.0",
+  "description": "Stevens CS546 WN Final Project Group 22",
+  "homepage": "https://github.com/olivialongmuir/CS_546_Group_22#readme",
+  "bugs": {
+    "url": "https://github.com/olivialongmuir/CS_546_Group_22/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olivialongmuir/CS_546_Group_22.git"
+  },
+  "license": "ISC",
+  "author": "Peter, Olivia, Ali, Zheng",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongodb": "^7.1.1"
+  }
+}
