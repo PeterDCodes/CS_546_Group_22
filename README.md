@@ -1,6 +1,6 @@
 # CS_546_Group_22
 
-
+'''
 **DIRECTORY STRUCTURE**
 data
     *put our database functions here*
@@ -23,3 +23,4 @@ views
 app.js
 README.md
 
+'''
